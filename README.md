@@ -5,8 +5,7 @@ Este desafio tem como objetivo explorar os conhecimentos em JS adiquiridos na tr
 O Desafio é criar uma página com uma lista de pokemons e através de um click em cada card, carrega uma nova página com os
  detalhes do Pokemon selecioado.
 
- Este desafio faz uso do consumo da API PokeApi disponibilizado no site https://pokeapi.co/api/v2/pokemon/
-
+ Este desafio faz uso do consumo da API PokeApi disponibilizado no site https://pokeapi.co/docs/v2#pokemon
 
 ## Design Tela Home
 ![designTelaMain](https://github.com/jodairnunes/Projeto-Pokedex-DIO/assets/127688761/46e8968c-59ef-41ec-bc28-f2eb41d830e7)
